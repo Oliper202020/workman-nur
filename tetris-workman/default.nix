@@ -53,7 +53,7 @@ haskell.lib.compose.justStaticExecutables (
         filepath
         optparse-applicative
       ];
-      homepage = "https://github.com/samtay/tetris";
+      homepage = "https://github.com/Oliper202020/tetris";
       changelog = "https://github.com/samtay/tetris/releases/tag/v${version}";
       license = lib.licenses.bsd3;
       mainProgram = "tetris";
